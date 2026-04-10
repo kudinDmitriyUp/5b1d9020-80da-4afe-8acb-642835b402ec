@@ -10,8 +10,8 @@ import { Nunito } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Jamala | Artisan Flower Studio',
-  description: 'Discover Jamala, your local artisan flower studio providing premium floral arrangements for weddings, gifts, and special events.',
+  title: 'ererte',
+  description: 'ertertre',
   openGraph: {
     "title": "Jamala Flower Studio",
     "description": "Premium flower arrangements and bespoke bouquets.",
